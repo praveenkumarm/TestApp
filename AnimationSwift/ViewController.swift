@@ -24,6 +24,8 @@ class ViewController: UIViewController,UICollectionViewDelegate,UICollectionView
     
     var hello : Int = 10
     
+    var hellotest2 : Int = 20
+    
 
     var audioPlayer:AVAudioPlayer!
 
