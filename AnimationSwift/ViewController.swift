@@ -20,6 +20,7 @@ class ViewController: UIViewController,UICollectionViewDelegate,UICollectionView
     var isRepeteZoomIn: Int = 0
     var isRepeteZoomOut: Int = 0
 
+    var intvalue : Int = 0
     
 
     var audioPlayer:AVAudioPlayer!
